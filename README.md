@@ -3,7 +3,7 @@
 ![Paint Studio 64 Header](PS64.webp)
 
 An advanced (yet retro-inspired) paint and drawing application targeting the Nintendo 64 platform.  
-This toolset demonstrates how far we can push the N64 hardware for creative purposes—without relying on modern AI or PNG export features.
+This toolset demonstrates how far we can push the N64 hardware for creative purposes.
 
 ---
 
@@ -91,16 +91,8 @@ Key modules of note:
 ## Limitations
 
 - **No** PNG/JPEG export: Images are stored in raw RGB565 or RLE.  
-- **No** AI Tools: Per user request, we excluded advanced AI-based painting or detection.  
+- **No** AI Tools: We excluded advanced AI-based painting or detection.  
 - Basic voice recognition is mostly a stub or mock; real integration requires specialized libraries and might exceed the N64’s typical memory constraints.
-
----
-
-## License and Credits
-
-- See `LICENSE` for any licensing terms (e.g., MIT, GPL, etc.).  
-- Original concept and code segments inspired by various retro dev communities.  
-- Artwork (PS64.webp) is a creative mock cover image.
 
 ---
 
